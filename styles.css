@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+.everything {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#title {
+    text-align: center;
+}
+
+#button {
+    background-color: bisque;
+    padding: 30px 60px;
+    font-size: 35px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+
+#button:hover {
+    background-color: aquamarine;
+    cursor: pointer;
+}

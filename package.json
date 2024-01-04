@@ -1,0 +1,16 @@
+{
+  "name": "rickroll",
+  "productName": "rickroll",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "devashishnayak",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "24.1.3"
+  }
+}
